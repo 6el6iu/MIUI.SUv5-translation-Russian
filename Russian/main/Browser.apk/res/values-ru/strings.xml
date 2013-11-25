@@ -431,7 +431,7 @@
     <string name="general_set_default_browser_dialog_close_txt">Закрыть</string>
     <string name="general_set_default_browser_dialog_ok_txt">Подтвердить</string>
 	<string name="pref_exit_on_closing_last_tab_enabled_title">Выход при закр. вкладок</string>
-	<string name="pref_exit_on_closing_last_tab_enabled_summary">Выходить из браузера, при закрытии последней вкладки. Выключите, чтобы показывалась домашней страницы</string>
+	<string name="pref_exit_on_closing_last_tab_enabled_summary">Выходить из браузера, при закрытии последней вкладки. Выключите, чтобы показывалась домашняя страница.</string>
 	<string name="url_hint">Поиск/Ввод URL</string>
 	<string name="file_picker_new_folder">Новая папка</string>
 	<string name="file_picker_sdcard_not_found">SD карта не найдена.</string>
